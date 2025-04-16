@@ -1,7 +1,6 @@
 # XGBoost-vs-Gradient-Boosting-A-Hands-On-Comparison-with-Code
 A practical guide comparing traditional Gradient Boosting and XGBoost using real datasets. This repo explains key limitations of Gradient Boosting and demonstrates how XGBoost overcomes them through faster training, regularization, and better scalability — all with clean, well-commented Python code.
 
-# XGBoost vs Gradient Boosting: A Hands-On Comparison with Code
 This repository provides an in-depth, hands-on comparison between Gradient Boosting and XGBoost — one of the most powerful ensemble learning techniques in modern machine learning.
 
 ## 🔍 What You'll Learn:
