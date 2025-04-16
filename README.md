@@ -12,14 +12,6 @@ This repository provides an in-depth, hands-on comparison between Gradient Boost
 * Visual and metric-based comparisons on performance and training time
 * Parameter tuning using GridSearchCV for both models
 
-## 📂 Contents:
-
-* gradient_boosting_basics.ipynb – Explanation and implementation of traditional Gradient Boosting
-* xgboost_basics.ipynb – XGBoost implementation with step-by-step improvements
-* comparison_analysis.ipynb – Side-by-side performance comparison (speed, accuracy, overfitting)
-* param_tuning.ipynb – Hyperparameter tuning examples and tips
-* README.md – Conceptual explanation and summary
-
 ## 📈 Dataset Used:
 
 sklearn.datasets.load_breast_cancer (or similar) – A clean, real-world binary classification dataset
